@@ -636,6 +636,27 @@ const familias = {
                
                     ]
 
-    }
+    },
+
+    /*==================================
+        FAMILIA AMBROCIO OBANDO
+    ==================================*/
+
+    "ALVA-8VF2": {
+
+        codigo: "ALVA-8VF2",
+
+        familia: "Familia Alvarado",
+
+        integrantes: [
+
+            "Karin de Alvarado",
+               
+            "Steve Alvarado"
+
+
+        ]
+
+        }
 
 };
